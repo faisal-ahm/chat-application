@@ -1,0 +1,14 @@
+{
+  "name": "nodeserver",
+  "version": "1.0.0",
+  "description": "node server for chat app by faisal",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Faisal Ahmad",
+  "license": "ISC",
+  "dependencies": {
+    "socket.io": "^4.5.1"
+  }
+}
